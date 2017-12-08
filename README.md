@@ -38,3 +38,14 @@ This week's meeting we came to the conclusion that the semester was picking up a
 
 # 11/12-11/18 - Week 11
 This week's meeting we mostly went over the newly built ontology and minor questions. We've decided on a ranking system for now, and solved the problem of missing information. We will either look above at a bigger scope (such as going from a city level to a county or state level) or the surrounding areas and possibly average them. As for future work, we will conduct meetings or have updates done over slack. The latest problem is also datasets in which they do not have API's and require consistent downloading for updated information, or datasets that are released in new files. I want to take a look at how we can maybe programmatically solve that or make it a little bit easier for us to handle. There's also the datasets mentioned that have thousands of variables. As the semester calms down (when it ends) we will probably be able to dedicate some time to manually going through it which I'm definitely okay with as we determine what datasets we need to do so with. I still want to continue with my ideas and plans from the prior week. They seems like interesting paths to follow and round out my knowledge. I unfortunately still feel like our project, while defined and given direction, is still missing pieces. I'm not sure what specifically but as I determine them I will bring them up in future conversations. 
+
+# 11/19-11/25 - Week 12
+I tried to understand the paper I had found a while back that mentioned what relocating people were looking for but wasn't able to get very far between it being Thanksgiving and tests going on this week. 
+
+# 11/26-12/2 - Week 13
+Unfortunately this week contained a lot of project due dates and I personally have a research paper due for WACV that I am trying to complete for the 12/2 deadline. 
+
+# 12/3-12/9 - Week 14
+This week was finals and more deadlines and I am working on the supplementary aspect of the WACV submission for 12/8.
+
+To make up for the discrepancies of the last 3 weeks, I planned to spend much of my winter break working on learning webscraping (for the datasets that do not have easily accessible manners), learning about databases and how to use them (and store data in them depending on the web or mobile) and practice developing an android application. I have already been looking through tutorials and had to develop an application for another class--though rudimentary at best--and I intend to improve it to create a functional and efficient application. I will also be reviewing web development so I am prepared for whichever direction we decide to go. My hopes are that most of these skills will be applied to our project when we decide on how we will approach our presentation of our data. 
