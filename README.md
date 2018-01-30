@@ -49,3 +49,12 @@ Unfortunately this week contained a lot of project due dates and I personally ha
 This week was finals and more deadlines and I am working on the supplementary aspect of the WACV submission for 12/8.
 
 To make up for the discrepancies of the last 3 weeks, I planned to spend much of my winter break working on learning webscraping (for the datasets that do not have easily accessible manners), learning about databases and how to use them (and store data in them depending on the web or mobile) and practice developing an android application. I have already been looking through tutorials and had to develop an application for another class--though rudimentary at best--and I intend to improve it to create a functional and efficient application. I will also be reviewing web development so I am prepared for whichever direction we decide to go. My hopes are that most of these skills will be applied to our project when we decide on how we will approach our presentation of our data. 
+
+# 12/10-1/20 - Break until first meeting
+
+From this point in time it was winter break and only work on learning android was done. We did not have our first meeting of the semester until the middle of the this week in this long break.
+
+# 1/21-1/28 - First meeting of the semester
+
+This week we had our first meeting of the semester and decided we wanted to develop a poster, begin the paper, and highlighted tasks for the week that we would meet on Sunday to finish the ontology, layout the paper, and decide on the UI and how it might look. My task for the following week is to digitize the wireframes we thought of for both the web and mobile applications, and then put them through photoshop to give them life and substance. I'm a lot more interested now that we're finally working toward development work. I know I need to look into database management though for android, Julia is supposed to look into what she wants to use for the web application and from there I can look into it from an Android standpoint and work toward developing a parallel application. I'm really excited.
+
