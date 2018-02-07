@@ -54,7 +54,16 @@ To make up for the discrepancies of the last 3 weeks, I planned to spend much of
 
 From this point in time it was winter break and only work on learning android was done. We did not have our first meeting of the semester until the middle of the this week in this long break.
 
-# 1/21-1/28 - First meeting of the semester
+# 1/21-1/27 - First meeting of the semester
 
 This week we had our first meeting of the semester and decided we wanted to develop a poster, begin the paper, and highlighted tasks for the week that we would meet on Sunday to finish the ontology, layout the paper, and decide on the UI and how it might look. My task for the following week is to digitize the wireframes we thought of for both the web and mobile applications, and then put them through photoshop to give them life and substance. I'm a lot more interested now that we're finally working toward development work. I know I need to look into database management though for android, Julia is supposed to look into what she wants to use for the web application and from there I can look into it from an Android standpoint and work toward developing a parallel application. I'm really excited.
 
+# 1/28-2/3
+
+I got the wireframes and UI's done! Next is a prototype for the android app. I'm wondering if the colors I'm using for the circles need to be consistent with other things online but I don't know if there is one and will ask during next week's meeting. We weren't able to meet separately this Sunday just because we all had group project work going on so things are a little behind in that regard. 
+Wireframes - ![Wireframe](https://drive.google.com/a/asu.edu/file/d/19KFKmNGSbcVGJzh7nHVMtTwJgfvDI1eE/view?usp=sharing)
+UI designs - ![UI](https://drive.google.com/a/asu.edu/file/d/1sxeW02XdDglblI2XsdwoOyj1L41qChQX/view?usp=sharing)
+
+# 2/4-2/10
+
+This week I'll be making edits to the UI's I've made and hopefully begin the android prototype so we have something tangible to play with. Based on our meeting it looks like I should add a dropdown menu in the toolbar and an app title for the mobile application. As for the web design, I just need to add labels to the circles. As for my colors question from last week, Vatricia was mentioning there is a consistency, but it looks like its more of a social standard than declared standard? I'll have to look into it regardless. Professor Bansal also sent out some links for us to look over which I'll be doing this weekend so I can start working on getting data. 
