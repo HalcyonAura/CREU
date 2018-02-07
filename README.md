@@ -61,8 +61,8 @@ This week we had our first meeting of the semester and decided we wanted to deve
 # 1/28-2/3
 
 I got the wireframes and UI's done! Next is a prototype for the android app. I'm wondering if the colors I'm using for the circles need to be consistent with other things online but I don't know if there is one and will ask during next week's meeting. We weren't able to meet separately this Sunday just because we all had group project work going on so things are a little behind in that regard. 
-Wireframes - ![Wireframe](https://drive.google.com/a/asu.edu/file/d/19KFKmNGSbcVGJzh7nHVMtTwJgfvDI1eE/view?usp=sharing)
-UI designs - ![UI](https://drive.google.com/a/asu.edu/file/d/1sxeW02XdDglblI2XsdwoOyj1L41qChQX/view?usp=sharing)
+Wireframes - https://drive.google.com/a/asu.edu/file/d/19KFKmNGSbcVGJzh7nHVMtTwJgfvDI1eE/view?usp=sharing
+UI designs - https://drive.google.com/a/asu.edu/file/d/1sxeW02XdDglblI2XsdwoOyj1L41qChQX/view?usp=sharing
 
 # 2/4-2/10
 
