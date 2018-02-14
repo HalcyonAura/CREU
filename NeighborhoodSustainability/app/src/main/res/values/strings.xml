@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">NeighborhoodSustainability</string>
+    <string name="city">Phoenix</string>
+    <string name="mainButton">72</string>
+    <string name="ecoButton">72</string>
+    <string name="econButton">72</string>
+    <string name="socButton">72</string>
+
 </resources>
