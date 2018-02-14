@@ -16,7 +16,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".BreakDown"></activity>
+        <activity android:name=".BreakDown" />
+        <activity
+            android:name=".InformationDisplay"
+            android:label="@string/title_activity_information_display"
+            android:parentActivityName=".BreakDown"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="creu.neighborhoodsustainability.BreakDown" />
+        </activity>
     </application>
 
 </manifest>
