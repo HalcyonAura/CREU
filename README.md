@@ -75,3 +75,11 @@ Admittedly last week was quite busy handling course homework (from AI to game de
 # 2/18 - 2/24
 
 This week has been a reading week due to next week being midterms and I have some particularly hard ones that I'm quite worried for. I spent my time studying SPARQL in preparation for us having data and a database to query from. It seems like we're using Jena, which Professor Bansal provided a query langauge that works with it (SPARQL). I've never worked with query languages before so its taking longer than I had expected to understand it. I'm mostly just trying to wrap my head around its possible functions and how we might query for data. I have also spent some time looking at android documentation again so I can continue with the next stage of the prototype I'm building--at least one functional part. Given that some of the pieces I've decided to use I've never even touched before, I'd like to experiment a bit before committing to a singular UI method. Unfortunately, the rest of my week is dedicated to studying for my AI midterm, the math has me struggling quite a bit. 
+
+# 2/25 - 3/3
+
+Unfortunately, this week consisted of me entirely studying for my midterms and completing assignments. However, once this wek is up, we are on Spring Break, which I plan on using to work on the android application and continue understanding SPARQL. There are other responsibilities I have for other assignments, but because they are other android applications my hope is to do work in one and also be able to do work on this one if they have the same components, thus cutting some development time down. 
+
+# 3/4 - 3/10
+
+We are trying to submit a poster to GHC in time for the due date, so today (3/4) I am working on reviewing the paper we have up to this point, and adding the current development process to it. 
