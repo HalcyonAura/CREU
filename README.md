@@ -94,3 +94,9 @@ I decided I would take a break from android development this week (I've had to d
 http://users.jena.apache.narkive.com/N6pRlaOh/apache-jena-for-android
 https://github.com/sbrunk/jena-android
 https://github.com/lencinhaus/androjena
+
+# 3/25 - 3/31
+This week I was prepping for my thesis defense at the end of the week. However, I focused on making the Android application adjust better to different API's because it turns out that it would be overcrowded depending on the API. Vatricia uploaded the finalized ontology, so I met up with her to make sure I understood enough about the layout in order to format the queries. We did run into problems though. The server isn't quite set up to test queries, and the queries can't be properly formatted or tested just yet due to the lack of server and data in the ontology. Instead, I focused on trying to fit the general layout of the ontology to a basic SPARQL query to be used to gather information as a testing procedure once the server is set up. From there I felt we could expand what we needed in the query incrementally. It is at this point we agreed upon joining the Innovation Showcase (poster and product showcase held by our college) to display our work over the semester.
+
+# 4/1 - 4/7
+We have a poster session coming up at the ASU Innovation Showcase and therefore we need to complete a poster submission in time, so our weekly meeting briefly covered that.
