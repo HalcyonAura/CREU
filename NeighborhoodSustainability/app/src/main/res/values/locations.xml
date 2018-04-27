@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="locations_array">
+        <item>Phoenix</item>
+        <item>Place1</item>
+        <item>Place2</item>
+        <item>Place3</item>
+    </string-array>
+</resources>

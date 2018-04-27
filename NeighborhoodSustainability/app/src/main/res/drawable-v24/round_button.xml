@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- TODO come back and figure out how to customize color for buttons to avoid mult files -->
+    <item android:state_pressed="false">
+        <shape android:shape="oval">
+            <solid android:color="#fade09"/>
+            <size android:height="200dp"/>
+            <size android:width="200dp"/>
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape android:shape="oval">
+            <solid android:color="#c2ac05"/>
+            <size android:height="200dp"/>
+            <size android:width="200dp"/>
+        </shape>
+    </item>
+</selector>

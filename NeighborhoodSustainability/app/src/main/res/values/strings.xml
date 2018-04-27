@@ -1,12 +1,16 @@
 <resources>
     <string name="app_name">NeighborhoodSustainability</string>
     <string name="city">Phoenix</string>
-    <string name="mainButton">72</string>
-    <string name="ecoButton">72</string>
-    <string name="econButton">72</string>
-    <string name="socButton">72</string>
+    <string name="mainButton">10</string>
+    <string name="ecoButton">10</string>
+    <string name="econButton">10</string>
+    <string name="socButton">10</string>
     <string name="title_activity_information_display">InformationDisplay</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_sample">Main2Activity</string>
 
 </resources>

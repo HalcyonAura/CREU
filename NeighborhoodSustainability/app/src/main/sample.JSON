@@ -1,0 +1,57 @@
+{
+  "head": { "social": [ "subindex" , "factor" , "information" , "rating" , "link"]
+  } ,
+  "results": { 
+    "bindings": [
+      {
+        "subindex": { "type": "literal" , "value": "Subindex" } ,
+        "factor": { "type": "literal" , "value" : "Factor" } , 
+        "information": { "type": "literal" , "value": "Lorem ipsum dolor sit amet, errem atomorum conceptam ei eam, vim id omnesque urbanitas. Solum detracto abhorreant qui ex, pro ad erant scripserit. " } , 
+        "rating": { "type": "literal" , "value": "4" } , 
+        "link": { "type": "uri" , "value": "https://www.census.gov/data.html" }
+      } ,
+      {
+        "subindex": { "type": "literal" , "value": "Subindex" } ,
+        "factor": { "type": "literal" , "value" : "Factor" } , 
+        "information": { "type": "literal" , "value": "Lorem ipsum dolor sit amet, errem atomorum conceptam ei eam, vim id omnesque urbanitas. Solum detracto abhorreant qui ex, pro ad erant scripserit. " } , 
+        "rating": { "type": "literal" , "value": "4" } , 
+        "link": { "type": "uri" , "value": "https://www.census.gov/data.html" }
+      } ,
+      {
+        "subindex": { "type": "literal" , "value": "Subindex" } ,
+        "factor": { "type": "literal" , "value" : "Factor" } , 
+        "information": { "type": "literal" , "value": "Lorem ipsum dolor sit amet, errem atomorum conceptam ei eam, vim id omnesque urbanitas. Solum detracto abhorreant qui ex, pro ad erant scripserit. " } , 
+        "rating": { "type": "literal" , "value": "4" } , 
+        "link": { "type": "uri" , "value": "https://www.census.gov/data.html" }
+      } ,
+      {
+        "subindex": { "type": "literal" , "value": "Subindex" } ,
+        "factor": { "type": "literal" , "value" : "Factor" } , 
+        "information": { "type": "literal" , "value": "Lorem ipsum dolor sit amet, errem atomorum conceptam ei eam, vim id omnesque urbanitas. Solum detracto abhorreant qui ex, pro ad erant scripserit. " } , 
+        "rating": { "type": "literal" , "value": "4" } , 
+        "link": { "type": "uri" , "value": "https://www.census.gov/data.html" }
+      } ,
+      {
+        "subindex": { "type": "literal" , "value": "Subindex" } ,
+        "factor": { "type": "literal" , "value" : "Factor" } , 
+        "information": { "type": "literal" , "value": "Lorem ipsum dolor sit amet, errem atomorum conceptam ei eam, vim id omnesque urbanitas. Solum detracto abhorreant qui ex, pro ad erant scripserit. " } , 
+        "rating": { "type": "literal" , "value": "4" } , 
+        "link": { "type": "uri" , "value": "https://www.census.gov/data.html" }
+      } ,
+      {
+        "subindex": { "type": "literal" , "value": "Subindex" } ,
+        "factor": { "type": "literal" , "value" : "Factor" } , 
+        "information": { "type": "literal" , "value": "Lorem ipsum dolor sit amet, errem atomorum conceptam ei eam, vim id omnesque urbanitas. Solum detracto abhorreant qui ex, pro ad erant scripserit. " } , 
+        "rating": { "type": "literal" , "value": "4" } , 
+        "link": { "type": "uri" , "value": "https://www.census.gov/data.html" }
+      } ,
+      {
+        "subindex": { "type": "literal" , "value": "Subindex" } ,
+        "factor": { "type": "literal" , "value" : "Factor" } , 
+        "information": { "type": "literal" , "value": "Lorem ipsum dolor sit amet, errem atomorum conceptam ei eam, vim id omnesque urbanitas. Solum detracto abhorreant qui ex, pro ad erant scripserit. " } , 
+        "rating": { "type": "literal" , "value": "4" } , 
+        "link": { "type": "uri" , "value": "https://www.census.gov/data.html" }
+      }
+    ]
+  }
+}

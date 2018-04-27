@@ -22,10 +22,12 @@
             android:label="@string/title_activity_information_display"
             android:parentActivityName=".BreakDown"
             android:theme="@style/AppTheme">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="creu.neighborhoodsustainability.BreakDown" />
         </activity>
+        <activity
+            android:name=".SampleActivity"
+            android:label="@string/title_activity_sample"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".IndicatorData"></activity>
     </application>
 
 </manifest>
