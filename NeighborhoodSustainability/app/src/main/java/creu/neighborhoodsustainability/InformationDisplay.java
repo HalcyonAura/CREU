@@ -53,6 +53,8 @@ public class InformationDisplay extends AppCompatActivity {
         Intent intent = getIntent();
         int pageNum = intent.getIntExtra("PageNumber", 0);
         currentCity = intent.getStringExtra("CityName");
+        if (currentCity == null)
+            currentCity = "CityName";
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         /*getSupportActionBar().setDisplayHomeAsUpEnabled(true);*/
